@@ -1,0 +1,9 @@
+.project
+*.pyo
+*.pyc
+/plugin.video.f4mTester/
+/repository.lastship.common/
+/script.module.liveresolver/
+/script.module.tulip/
+/script.module.urlresolver/
+/script.video.F4mProxy/
