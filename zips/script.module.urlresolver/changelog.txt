@@ -4,6 +4,11 @@ https://github.com/jsergio123
 https://github.com/anxdpanic/script.module.urlresolver/tree/repository
 Colossus URLResolver
 
+-[B]Version 3.0.33.08[/B]
+- init_.py
+- hmf
+- all language strings.po (Remove Name: TV Addons)
+- flashx
 
 -[B]Version 3.0.33.07[/B]
 - helpers.py
