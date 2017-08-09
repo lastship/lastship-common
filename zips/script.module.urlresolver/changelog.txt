@@ -2,7 +2,21 @@ Quellen für diese Updates:
 
 https://github.com/jsergio123
 https://github.com/anxdpanic/script.module.urlresolver/tree/repository
-Colossus URLResolver
+
+
+-[B]Version 3.0.33.09[/B]
+- kingvid
+- speedvid
+- streamplay
+- vidtodo
+- vidwatch
+- vshareeu
+- watchers
+
+- Add powvideo
+- Add tubitv
+
+- helpers.py
 
 -[B]Version 3.0.33.08[/B]
 - init_.py
