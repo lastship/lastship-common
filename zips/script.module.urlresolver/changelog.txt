@@ -1,8 +1,13 @@
 Quellen für diese Updates: 
 
 https://github.com/jsergio123
-https://github.com/anxdpanic/script.module.urlresolver/tree/repository
 
+-[B]Version 3.0.33.10[/B]
+- settings.xml
+
+- amazon
+- thevideo
+- Add ustream
 
 -[B]Version 3.0.33.09[/B]
 - kingvid
