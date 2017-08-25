@@ -1,6 +1,11 @@
-Quellen für diese Updates: 
 
-https://github.com/jsergio123
+[B]Version 3.0.33.11[/B]
+- Update watchers
+- Update fx_gmu
+- Update flashx
+- weshare
+- Add oneload
+- Add waaw
 
 -[B]Version 3.0.33.10[/B]
 - settings.xml
