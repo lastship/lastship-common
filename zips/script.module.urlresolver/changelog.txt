@@ -1,3 +1,9 @@
+[B]Version 3.0.33.13[/B]
+- flashx
+- fx_gmu
+- speedvid
+- remove smoozed
+
 [B]Version 3.0.33.12[/B]
 - smoozed
 - flashx
