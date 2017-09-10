@@ -1,3 +1,18 @@
+[B]Version 3.0.35[/B]
+- streamango
+- openload (Fix not possible pairing openload ; with non english Kodi language menu)
+- fx_gmu
+- smoozed
+- thevid
+- uptobox
+- vidzella
+- vshareeu
+
+- create thevid_gmu
+- create flixtor
+
+- jsunpack.py
+
 [B]Version 3.0.34[/B]
 - movdivx
 - speedvid
