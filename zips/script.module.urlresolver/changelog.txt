@@ -1,3 +1,6 @@
+[B]Version 3.0.36[/B]
+Bugfix  3.0.35
+
 [B]Version 3.0.35[/B]
 - streamango
 - openload (Fix not possible pairing openload ; with non english Kodi language menu)
