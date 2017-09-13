@@ -1,5 +1,8 @@
+[B]Version 4.0.04[/B]
+- Anpassung der Versions Nummer an de Update Quelle (Jsergio), KEINE Technischen Änderungen
+
 [B]Version 3.0.36[/B]
-Bugfix  3.0.35
+- Bugfix  3.0.35
 
 [B]Version 3.0.35[/B]
 - streamango
