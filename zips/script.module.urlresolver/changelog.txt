@@ -1,3 +1,9 @@
+Mit # markierten .py Dateien sind Lastship Modifiziert
+
+[B]Version 4.0.04.1[/B]
+ - indavideo #
+- thevideo (Pairing Homepage Anzeigelink geändert #
+
 [B]Version 4.0.04[/B]
 - Anpassung der Versions Nummer an die Update Quelle (Jsergio), KEINE Technischen Änderungen
 
