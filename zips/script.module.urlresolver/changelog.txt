@@ -1,8 +1,16 @@
-Mit # markierten .py Dateien sind Lastship Modifiziert
+Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
+
+[B]Version 4.0.05.1[/B]
+- waaw
+- streamango (Fix smu delay)
+- mailru
+- indavideo
+- Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut
+- log_utils.py
 
 [B]Version 4.0.04.1[/B]
- - indavideo #
-- thevideo (Pairing Homepage Anzeigelink geändert #
+- indavideo #
+- thevideo (Pairing Homepage Anzeigelink geändert) #
 
 [B]Version 4.0.04[/B]
 - Anpassung der Versions Nummer an die Update Quelle (Jsergio), KEINE Technischen Änderungen
