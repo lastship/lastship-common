@@ -1,5 +1,11 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.06.1[/B]
+- speedvid (+jsunpack.py)
+- datoporn removed
+- streamango / streamcherry
+- indavideo
+
 [B]Version 4.0.05.1[/B]
 - waaw
 - streamango (Fix smu delay)
@@ -36,7 +42,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 [B]Version 3.0.34[/B]
 - movdivx
 - speedvid
-- xvidstage
+- xvidstage #
 
 [B]Version 3.0.33.14[/B]
 - xvidstage 
