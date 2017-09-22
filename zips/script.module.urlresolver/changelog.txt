@@ -1,10 +1,16 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.06.2[/B]
+- vidme
+- xvidstage
+- Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut
+
 [B]Version 4.0.06.1[/B]
 - speedvid (+jsunpack.py)
 - datoporn removed
 - streamango / streamcherry
 - indavideo
+- Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut
 
 [B]Version 4.0.05.1[/B]
 - waaw
@@ -15,7 +21,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - log_utils.py
 
 [B]Version 4.0.04.1[/B]
-- indavideo #
+- indavideo 
 - thevideo (Pairing Homepage Anzeigelink geändert) #
 
 [B]Version 4.0.04[/B]
