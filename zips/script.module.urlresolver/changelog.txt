@@ -1,5 +1,8 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.06.3[/B]
+- Remove streamcherry
+
 [B]Version 4.0.06.2[/B]
 - vidme
 - xvidstage
