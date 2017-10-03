@@ -9,6 +9,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 
 - remove .pyo data in urlresolver subfolder (plugin folder)
 - jsunpack.py
+- Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut (thevideo)
 
 [B]Version 4.0.06.3[/B]
 - Remove streamcherry
