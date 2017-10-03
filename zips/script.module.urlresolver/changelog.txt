@@ -1,5 +1,15 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.06.4[/B]
+- vidme
+- grifthost
+- fx_gmu
+- speedvid
+- speedvid_gmu
+
+- remove .pyo data in urlresolver subfolder (plugin folder)
+- jsunpack.py
+
 [B]Version 4.0.06.3[/B]
 - Remove streamcherry
 
