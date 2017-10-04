@@ -1,5 +1,14 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.07.1[/B]
+- bitvid #
+- lolzor
+- megamp4
+- mycloud
+- Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut (thevideo)
+
+- create vidstreaming
+
 [B]Version 4.0.06.4[/B]
 - vidme
 - grifthost
