@@ -1,5 +1,11 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.07.4[/B]
+- hdvid
+- speedvid_gmu
+- speedvideo
+- vodlock
+
 [B]Version 4.0.07.3[/B]
 - speedvid_gmu
 - xvidstage
