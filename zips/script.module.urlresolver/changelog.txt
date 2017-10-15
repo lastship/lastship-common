@@ -1,5 +1,12 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.07.5[/B]
+- flashx
+- fx_gmu
+- speedvid_gmu
+
+- add mehlizmovies
+
 [B]Version 4.0.07.4[/B]
 - hdvid
 - speedvid_gmu
