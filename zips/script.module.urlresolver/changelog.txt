@@ -1,5 +1,14 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.07.6[/B]
+- strings.py
+- resolver.py
+
+- fx_gmu
+- rapidgator
+- speedvid_gmu
+- vshareeu
+
 [B]Version 4.0.07.5[/B]
 - flashx
 - fx_gmu
