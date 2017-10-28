@@ -1,5 +1,10 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.08.2[/B]
+- create ocloud
+- speedvid_gmu
+- vidstore
+
 [B]Version 4.0.08.1[/B]
 - kodi.py
 
