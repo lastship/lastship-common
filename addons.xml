@@ -42,7 +42,7 @@
 	</extension>
 </addon>
 	
-<addon id="script.module.requests" name="requests" version="2.9.1" provider-name="kennethreitz, beenje">
+<addon id="script.module.requests" name="requests" version="2.12.4" provider-name="kennethreitz, beenje">
   	<requires>
     		<import addon="xbmc.python" version="2.14.0"/>
   	</requires>
@@ -52,11 +52,10 @@
     		<description>Packed for KODI from https://github.com/kennethreitz/requests</description>
     		<platform>all</platform>
     		<language></language>
-   		 <license>Apache2</license>
-   		 <forum></forum>
-    		 <website>http://python-requests.org</website>
-   		 <source>https://github.com/beenje/script.module.requests</source>
-   		 <email>beenje AT gmail.com</email>
-  	</extension>
-</addon>
+    		<license>Apache2</license>
+    		<forum></forum>
+    		<website>http://python-requests.org</website>
+    		<source>https://github.com/beenje/script.module.requests</source>
+    		<email>beenje AT gmail.com</email>
+	</extension>
 </addons>
