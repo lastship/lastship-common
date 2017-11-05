@@ -1,5 +1,11 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.08.4[/B]
+- strings.py  (flashx.tv pairing)
+- flashx
+- remove fx_gmu
+- strings.po (Flashx Stream Authorization)
+
 [B]Version 4.0.08.3[/B]
 - openload
 - thevideo (Pairing Anzeige fix) #
