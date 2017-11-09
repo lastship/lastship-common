@@ -1,5 +1,13 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.09.1[/B]
+- googlevideo
+- mycloud
+- speedvid_gmu
+- vidtodo
+
+- Lastship Modifizierte Dateien eingebaut (thevideo, bitporno)
+
 [B]Version 4.0.08.4[/B]
 - strings.py  (flashx.tv pairing)
 - flashx
