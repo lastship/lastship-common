@@ -1,5 +1,11 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.15.1[/B]
+- Versions Nummer Anpsssung an die neuen Entwickler
+- clicknupload
+- userscloud (Fix defekten resolver für userscloud)
+- alldebrid (New API)
+
 [B]Version 4.0.09.2[/B]
 - googlevideos
 - mehlizmovies
