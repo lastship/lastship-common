@@ -1,7 +1,14 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.16.1[/B]
+- alldebrid (Login Check optimiert)
+- thevid (VID_Source Githubquelle angepasst)
+- thevid_gmu
+- bitporno (Scraper Fix) #
+- xvidstage (Scraper Fix) #
+
 [B]Version 4.0.15.1[/B]
-- Versions Nummer Anpsssung an die neuen Entwickler
+- Versions Nummer Anpsssung an die TVAddons Entwickler
 - clicknupload
 - userscloud (Fix defekten resolver für userscloud)
 - alldebrid (New API)
