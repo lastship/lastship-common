@@ -1,5 +1,12 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.16.2[/B]
+- thevid_gmu
+- speedplay
+- tunepk
+- helpers.py
+- vidzella
+
 [B]Version 4.0.16.1[/B]
 - alldebrid (Login Check optimiert)
 - thevid (VID_Source Githubquelle angepasst)
