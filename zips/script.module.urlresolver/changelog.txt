@@ -1,5 +1,9 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.16.4[/B]
+- rapidvideocom (/Auflösung/Qualitäts Berücksichtigung)
+- thevid_gmu
+
 [B]Version 4.0.16.3[/B]
 - alldebrid
 - string.po (AllDebrid Autorisierung zurücksetzen, AllDebrid Resolver autorisiert)
