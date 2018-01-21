@@ -1,5 +1,12 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.17.1[/B]
+- vshare
+- vidup_me
+- thevideo #
+- entervideo
+- getvi
+
 [B]Version 4.0.16.4[/B]
 - rapidvideocom (/Auflösung/Qualitäts Berücksichtigung)
 - thevid_gmu
