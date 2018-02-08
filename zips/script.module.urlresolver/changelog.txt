@@ -1,5 +1,13 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.17.2[/B]
+- powvideo
+- speedvid_gmu
+- streamplay
+- thevid_gmu
+- thevideo
+- userscloud
+
 [B]Version 4.0.17.1[/B]
 - vshare
 - vidup_me
