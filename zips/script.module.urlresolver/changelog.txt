@@ -1,5 +1,17 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.19[/B]
+- ol_gmu  entfernt
+- googlevideo (notify external resolving )
+- clicknupload
+- add filebebo
+- mehlizmovies
+- mycloud
+- openload (remove import ol_gmu)
+- add streamgo
+- vshare
+- yandex.py (in plugins/lib)
+
 [B]Version 4.0.18.1[/B]
 - Update Openload (adding user agent to the header and removed references to ol_gmu.py as it is empty)
 
