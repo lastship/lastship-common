@@ -1,6 +1,12 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.20[/B]
+  14.03.2018
+- realdebrid
+- streamango
+
 [B]Version 4.0.19[/B]
+  09.03.2018
 - ol_gmu  entfernt
 - googlevideo (notify external resolving )
 - clicknupload
@@ -13,9 +19,11 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - yandex.py (in plugins/lib)
 
 [B]Version 4.0.18.1[/B]
+  02.03.2018
 - Update Openload (adding user agent to the header and removed references to ol_gmu.py as it is empty)
 
 [B]Version 4.0.18[/B]
+  01.03.2018
 - premiumize_me (Cache check for url)
 - flashx (Domain Update und Pairing Link Update))
 - hmf.py
