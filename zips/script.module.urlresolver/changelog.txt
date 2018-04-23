@@ -1,5 +1,12 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.21[/B]
+- thevid_gmu
+- thevid
+- nxload
+- add streamdor
+- add vidup_tv
+
 [B]Version 4.0.20[/B]
   14.03.2018
 - realdebrid
