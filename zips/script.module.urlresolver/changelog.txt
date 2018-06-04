@@ -1,5 +1,19 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.23[/B]
+  04.06.2018
+  Update:
+- common.py (User Agents)
+- gamovideo
+- openload (Add Domains)
+- premiumize_me (User Agents)
+- streamango
+- thevideo
+- vidto (Add Domain)
+
+  Neu:
+- vidcloud
+
 [B]Version 4.0.22[/B]
   25.5.2018
   Update:
