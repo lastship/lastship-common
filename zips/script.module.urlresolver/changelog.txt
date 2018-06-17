@@ -1,5 +1,11 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.25[/B]
+  Update:
+- estream (Resolver Fix)
+- streamango (Add Additional Domain)
+- Flashx Quick Fix (Pairing Domain von .cc auf .tv)
+
 [B]Version 4.0.24[/B]
   15.06.2018
 - alldebrid
