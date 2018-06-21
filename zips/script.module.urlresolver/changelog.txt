@@ -1,5 +1,8 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.26[/B]
+- Fix Flashx
+
 [B]Version 4.0.25[/B]
   Update:
 - estream (Resolver Fix)
