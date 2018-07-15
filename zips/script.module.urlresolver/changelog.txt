@@ -1,5 +1,14 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+B]Version 4.0.27[/B]
+  15.07.2018
+- youtube
+	Neu Methode um Youtube Videos abzuspielen, ohne YouTube Addon Abhängigkeit 
+	Will fallback to youtube addon if resolving fails with the new method
+	Examples -
+	https://www.youtube.com/watch?v=IyB3Ovj1qh4
+	https://www.youtube.com/watch?v=b2aEskejqUU
+
 [B]Version 4.0.26[/B]
 - Fix Flashx
 
