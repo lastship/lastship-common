@@ -1,6 +1,6 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
-B]Version 4.0.27[/B]
+[B]Version 4.0.27[/B]
   15.07.2018
 - youtube
 	Neu Methode um Youtube Videos abzuspielen, ohne YouTube Addon Abhängigkeit 
