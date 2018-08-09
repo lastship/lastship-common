@@ -1,5 +1,16 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.28[/B]
+  09.08.2018
+  Neu:
+- gofile
+- vidorg
+  
+  Update:
+- speedvid_gmu
+- thevid_gmu
+- thevideo
+
 [B]Version 4.0.27[/B]
   15.07.2018
 - youtube
