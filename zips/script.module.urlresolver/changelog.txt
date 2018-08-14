@@ -1,5 +1,10 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.29[/B]
+  14.08.2018
+  Neu:
+- videozupload
+
 [B]Version 4.0.28[/B]
   09.08.2018
   Neu:
