@@ -1,5 +1,32 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.30[/B]
+  23.08.2018
+  Update:
+- common.py (Update UserAgent)
+- anyfiles  (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- ecostream (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- fileweed  (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- hugefiles (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- mp4stream (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- putvid    (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- teramixer (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- uptobox   (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+- vk        (Update UserAgent, IE UuserAgent entfernt und Add EDGE UserAgent)
+
+- openload (Add neue Domain)
+- powvideo
+- rapidvideocom
+- daclips
+- movpod 
+- jsunpack.py
+- gounlimited #  (Update for Kino.cx)
+
+  Neu:
+- streamservice # (for foxx.to use)
+- tocloud
+- unitplay
+
 [B]Version 4.0.29[/B]
   14.08.2018
   Neu:
