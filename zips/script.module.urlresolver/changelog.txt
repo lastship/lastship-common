@@ -1,7 +1,7 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
 [B]Version 4.0.31[/B]
-  28.08.2018
+  06.09.2018
   Update: 
 - estream (GenericResolver entfernt, Add URLResolver)
 - powvideo (Add Domain)
