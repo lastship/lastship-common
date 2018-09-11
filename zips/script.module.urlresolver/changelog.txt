@@ -1,5 +1,10 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.31.1[/B]
+  11.09.2018
+  Update:
+- nxload # (for HDStreams)
+
 [B]Version 4.0.31[/B]
   06.09.2018
   Update: 
