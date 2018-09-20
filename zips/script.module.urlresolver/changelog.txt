@@ -1,5 +1,11 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.32[/B]
+  20.09.2018
+- googlevideo (add forgotten ")
+- nxload (Remove GenericResolver and add URLResolver)
+- rapidvideocom 
+
 [B]Version 4.0.31.1[/B]
   11.09.2018
   Update:
