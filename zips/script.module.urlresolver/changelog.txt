@@ -1,5 +1,10 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.32.1[/B]
+  24.09.2018
+  Neu:
+- cloudvideo
+
 [B]Version 4.0.32[/B]
   20.09.2018
 - googlevideo (add forgotten ")
