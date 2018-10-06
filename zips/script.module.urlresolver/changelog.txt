@@ -1,9 +1,16 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.33[/B]
+  06.10.2018
+  Neu:
+- flix55
+- streamcloudco
+- xclip
+
 [B]Version 4.0.32.1[/B]
   24.09.2018
   Neu:
-- cloudvideo
+- cloudvideo #
 
 [B]Version 4.0.32[/B]
   20.09.2018
