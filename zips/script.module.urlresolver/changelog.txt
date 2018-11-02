@@ -1,5 +1,12 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.35[/B]
+  02.11.2018
+  Update:
+- openload (Add Domain)
+- streamable
+- streamango (fallback to pairing if necessary)
+
 [B]Version 4.0.34[/B]
   24.10.2018
   Update:
