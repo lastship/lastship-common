@@ -1,5 +1,20 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.36[/B]
+  12.11.2018
+  Update:
+- openload (Add domain)
+- rapidvideocom (import urllib2)
+- thevid_gmu (def get_media_url)
+- Option zum Globalen Deaktivieren von Plugins/Hostern welche Popups/Pairing verwenden:
+	- _init_.py
+	- hmf.py
+	- strings.py
+	- Language (Englisch, Englisch US, German)
+  
+  Entfernt:
+- novamov
+
 [B]Version 4.0.35[/B]
   02.11.2018
   Update:
