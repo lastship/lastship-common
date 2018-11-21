@@ -1,5 +1,40 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.37[/B]
+  20.11.2018
+  Update:
+- vidcloud (Update pattern)
+- waaw (Update pattern und domain)
+- language vevio update (Englisch, Englisch US, German)
+- strings.py (vevio Update)
+
+- Besseres Handling zum Deaktivieren von Plugins welche PopUps verwenden  
+	- clicknupload
+	- flashx
+	- openload
+	- premiumize_me
+	- streamango
+	- vshareeu
+	- kodi.
+	- _init_.py
+	- hmf.py
+	- resolver.py
+	
+	
+- Domain Update
+	- datemule 
+	- hugefiles
+	- mystream
+
+  Neu:
+- cloudvideo
+- superitu
+- vevio (thevideo entfernt, jetzt neuer Name Vevio)
+- VKSpeed
+
+  Entfernt:
+- thevideo
+
 [B]Version 4.0.36[/B]
   12.11.2018
   Update:
