@@ -1,5 +1,24 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.38[/B]
+  22.11.2018
+  Update (common.SMU_USER_AGENT ersetzt durch common.RAND_UA):
+- megadebrid
+- streaminto
+- vshareeu
+
+- realdebrid
+- _init_.py
+- speedvid_gmu
+- vivosx
+
+  Entfernt:
+- aa_decoder
+
+  Neu:
+- irshare
+- aadecode
+
 [B]Version 4.0.37[/B]
   20.11.2018
   Update:
