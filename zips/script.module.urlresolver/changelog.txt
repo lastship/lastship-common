@@ -1,5 +1,16 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.40[/B]
+  14.12.2018
+  Update:
+- - thevid_gmu
+
+ Update Premiumize_me API:
+- strings.po EN/US/DE und strings.py
+
+  Neu:
+- Khatriuploads
+
 [B]Version 4.0.39[/B]
   06.12.2018
   Update (neue sortier Methode):
