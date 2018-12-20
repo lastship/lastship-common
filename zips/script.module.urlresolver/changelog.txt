@@ -1,8 +1,19 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.40.2[/B]
+  20.12.2108
+- Update Premiumize_me
+
+- Update Real Debrid für Torrent Unterstützung
+	- Magnet Link Unterstützung bei Real-Debrid Verwendung(experimental)
+	- HTTP Lösch Methode hinzugefügt
+	- Neue Real-Debrid CLIENT ID (wird benötig zum re-authorisieren)
+
 [B]Version 4.0.40.1[/B]
   19.12.2018
-- Update Premiumize_me (Unterstützung für Torrent)
+- Update Premiumize_me
+	 - Torrent und Magnet Link Unterstützung
+	 - Neue API
 
 [B]Version 4.0.40[/B]
   14.12.2018
