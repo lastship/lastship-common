@@ -1,5 +1,11 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.40.3[/B]
+  26.12.2018
+  Update:
+- premiumize_me
+- realdebrid
+
 [B]Version 4.0.40.2[/B]
   20.12.2108
 - Update Premiumize_me
