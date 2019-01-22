@@ -1,5 +1,14 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.43[/B]
+  22.01.2019
+  Neu:
+- vidbob
+
+  Update:
+- openload (Add Neue Domain)
+
+
 [B]Version 4.0.42[/B]
   13.01.2019
   Update:
