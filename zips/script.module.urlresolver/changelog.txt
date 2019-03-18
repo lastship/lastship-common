@@ -1,5 +1,12 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.45[/B]
+  18.03.2019
+  Neu:
+- lewdhost
+- videoapne
+- xstreamcdn
+
 [B]Version 4.0.44[/B]
   05.02.2019
   Update:
