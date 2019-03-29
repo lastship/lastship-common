@@ -1,5 +1,13 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.47[/B]
+  Update:
+  29.03.2019
+- myupload
+- streamcloudco
+- thevid
+- Greek language (string.po)
+
 [B]Version 4.0.46[/B]
   Update:
   19.03.2019
