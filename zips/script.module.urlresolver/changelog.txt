@@ -1,5 +1,19 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.48[/B]
+  25.04.2019
+  Update:
+- common.py
+- fembed
+- premiumize_me
+- realdebrid
+- thevid_gmu
+- thevid (Change VID_SOURCE = os.path)
+- vidtodo
+
+Neu:
+- hxload
+
 [B]Version 4.0.47[/B]
   Update:
   29.03.2019
@@ -26,7 +40,6 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - realdebrid
 - premiumize_me
 
-
 [B]Version 4.0.43[/B]
   22.01.2019
   Neu:
@@ -34,7 +47,6 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 
   Update:
 - openload (Add Neue Domain)
-
 
 [B]Version 4.0.42[/B]
   13.01.2019
@@ -54,6 +66,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 
 - Geräte Authentifizierung für Premiumize_me
 - default.py
+	
 
 [B]Version 4.0.40.3[/B]
   26.12.2018
@@ -71,10 +84,11 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 	- Neue Real-Debrid CLIENT ID (wird benötig zum re-authorisieren)
 
 [B]Version 4.0.40.1[/B]
-  19.12.2018
+  18.12.2018
 - Update Premiumize_me
 	 - Torrent und Magnet Link Unterstützung
 	 - Neue API
+
 
 [B]Version 4.0.40[/B]
   14.12.2018
@@ -97,6 +111,10 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - rapidvideocom
 - vidup_me
 
+
+ 
+
+
 [B]Version 4.0.38[/B]
   22.11.2018
   Update (common.SMU_USER_AGENT ersetzt durch common.RAND_UA):
@@ -115,6 +133,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
   Neu:
 - irshare
 - aadecode
+
 
 [B]Version 4.0.37[/B]
   20.11.2018
@@ -151,6 +170,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
   Entfernt:
 - thevideo
 
+
 [B]Version 4.0.36[/B]
   12.11.2018
   Update:
@@ -173,12 +193,13 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - streamable
 - streamango (fallback to pairing if necessary)
 
+
 [B]Version 4.0.34[/B]
   24.10.2018
   Update:
 - thevid_gmu
 - tvlogy
-- cda 
+- cda
 - gounlimited
 - rapidvideocom
 - tunepk
@@ -203,7 +224,6 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - cloudvideo #
 
 [B]Version 4.0.32[/B]
-  20.09.2018
 - googlevideo (add forgotten ")
 - nxload (Remove GenericResolver and add URLResolver)
 - rapidvideocom 
@@ -214,7 +234,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - nxload # (for HDStreams)
 
 [B]Version 4.0.31[/B]
-  06.09.2018
+  28.08.2018
   Update: 
 - estream (GenericResolver entfernt, Add URLResolver)
 - powvideo (Add Domain)
@@ -248,6 +268,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - tocloud
 - unitplay
 
+
 [B]Version 4.0.29[/B]
   14.08.2018
   Neu:
@@ -263,6 +284,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - speedvid_gmu
 - thevid_gmu
 - thevideo
+  
 
 [B]Version 4.0.27[/B]
   15.07.2018
@@ -274,6 +296,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 	https://www.youtube.com/watch?v=b2aEskejqUU
 
 [B]Version 4.0.26[/B]
+  21.06.2018
 - Fix Flashx
 
 [B]Version 4.0.25[/B]
@@ -283,13 +306,13 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - Flashx Quick Fix (Pairing Domain von .cc auf .tv)
 
 [B]Version 4.0.24[/B]
-  15.06.2018
+  Update:
 - alldebrid
 - vidup_me
 - waaw
 
+
 [B]Version 4.0.23[/B]
-  04.06.2018
   Update:
 - common.py (User Agents)
 - gamovideo
@@ -377,6 +400,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - thevid_gmu
 - thevideo
 - userscloud
+- jsunfuck.py
 
 [B]Version 4.0.17.1[/B]
 - vshare
@@ -407,11 +431,11 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - alldebrid (Login Check optimiert)
 - thevid (VID_Source Githubquelle angepasst)
 - thevid_gmu
-- bitporno (Scraper Fix) #
+- bitporno (Scraper Fix)#
 - xvidstage (Scraper Fix) #
 
 [B]Version 4.0.15.1[/B]
-- Versions Nummer Anpsssung an die TVAddons Entwickler
+- Versions Nummer Anpsssung an die neuen Entwickler
 - clicknupload
 - userscloud (Fix defekten resolver für userscloud)
 - alldebrid (New API)
@@ -425,8 +449,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - mycloud
 - speedvid_gmu
 - vidtodo
-
-- Lastship Modifizierte Dateien eingebaut (thevideo, bitporno)
+- Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut (thevideo, bitporno)
 
 [B]Version 4.0.08.4[/B]
 - strings.py  (flashx.tv pairing)
@@ -450,6 +473,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - speedvid_gmu
 - Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut (thevideo, bitporno)
 
+
 [B]Version 4.0.07.6[/B]
 - strings.py
 - resolver.py
@@ -458,6 +482,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - rapidgator
 - speedvid_gmu
 - vshareeu
+
 
 [B]Version 4.0.07.5[/B]
 - flashx
@@ -498,6 +523,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 - fx_gmu
 - speedvid
 - speedvid_gmu
+- Lastship Modifizierte Dateien (mit # Symbol markiert) eingebaut (thevideo)
 
 - remove .pyo data in urlresolver subfolder (plugin folder)
 - jsunpack.py
@@ -554,7 +580,7 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
 [B]Version 3.0.34[/B]
 - movdivx
 - speedvid
-- xvidstage #
+- xvidstage 
 
 [B]Version 3.0.33.14[/B]
 - xvidstage 
