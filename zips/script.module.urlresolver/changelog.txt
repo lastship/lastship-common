@@ -1,5 +1,17 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.49[/B]
+  28.04.2019
+  Update:
+- vidlox
+- vidoza
+- vidtodo
+- uptobox
+
+  Neu:
+- verystream
+- idtbox
+
 [B]Version 4.0.48[/B]
   25.04.2019
   Update:
