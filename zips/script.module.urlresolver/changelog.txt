@@ -1,5 +1,16 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.51[/B]
+  18.05.2019
+  Update:
+- alldebrid (Torrent Unterstützung)
+- tunepk
+- veoh
+- vidtodo
+  
+  Neu:
+- idtbox
+
 [B]Version 4.0.50[/B]
   29.04.2019
   Update:
