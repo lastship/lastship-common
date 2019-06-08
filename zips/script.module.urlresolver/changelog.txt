@@ -1,8 +1,100 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]Version 4.0.52[/B]
+  08.06.2019
+  Neu:
+- Linksnappy
+- jetload.net #
+- holavid
+
+- Update Linksnappy
+  Update string.po (Language German und Englisch)
+  Update strings.py
+  Linksnappy Verbesserungen:
+  1) Removed user/pass input fields from settings, user is now prompted to enter upon selecting authorization action
+  2) Replaced FILEHOSTS with FILEHOSTSREALTIME which is updated faster
+  3) Cleaned debugging messages and improved them for readability
+  4) Added cache check for file hosts
+  5) Improved progress window info for transfers
+  6) Resolveurl folder is now created under Downloads folder instead of root
+  7) Cached-only torrents setting is enabled by default
+  8) Separated hosts and regex related functions
+  9) Various other tweaks
+
+  Update:
+- hdgo
+- Language strings.po Deutsch und Englisch (Add Linksnappy)
+- strings.py (Add Linksnappy)
+- default.py (Add Linksnappy)
+
+  Entfernt:
+- animeportal
+- apnasave
+- cloudy
+- datoporn
+- dbmovies
+- divxstage
+- earnvideos
+- ecostream
+- filebebo
+- fileweed
+- filez
+- flixtor
+- getvi
+- goflicker
+- goodvideohost
+- kingfiles
+- kingvid
+- lolzor
+- mersalaayitten
+- movshare
+- mp4engine
+- mp4stream
+- myvidstream
+- nosvideo
+- ocloud
+- play44_net
+- playhd
+- promtfile
+- purevid
+- speedplay
+- speedwatch
+- spruto
+- stagevu
+- streamapi
+- streamdor
+- streamgo
+- streaminto
+- streamservice
+- teramixer
+- thevideos
+- trt
+- uploadaf
+- uploadx
+- uploadz
+- vidabc
+- vidcrazynet
+- videocloud
+- videoget
+- videohut
+- videooraj
+- videoweed
+- vidfile
+- vidhos
+- vidics
+- vidme
+- vidup_tv
+- vidzella
+- vodlock
+- watchers
+- watchonline
+- watchpass
+- xclip
+
 [B]Version 4.0.51[/B]
   18.05.2019
   Update:
+- verystream #
 - alldebrid (Torrent Unterstützung)
 - tunepk
 - veoh
@@ -10,6 +102,8 @@ Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolve
   
   Neu:
 - idtbox
+- hdgo/vio (mit Auswahl für Auflösung wenn Multistream) #
+
 
 [B]Version 4.0.50[/B]
   29.04.2019
