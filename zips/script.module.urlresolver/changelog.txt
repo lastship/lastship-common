@@ -1,6 +1,33 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
-[B]Version 4.0.52[/B]
+[B]4.0.53[/B]
+  09.07.2019
+  Neu:
+- videoz
+- onlystream
+  
+  Update:
+- fembed
+  zusätzliche Domain
+  Codeupdate für Bindestriche
+- rapidvideocom
+  Fix bei sortier Qualität
+- streamvid
+  Link entfernt
+- videoapne
+- openload
+  unnötige imports entfernt
+  einige PEP8
+  erhalte die eingebettete URL durch hinzufügen des Hosts, anstelle der default Domain 
+  (Get embed url by applying the host instead of the default domain)
+- Linksnappy (Add Headers)
+  Update string.po (Language German und Englisch)
+  Update strings.py
+- mp4upload (Fix Probleme mit manchen mp4upload Links)
+- xstreamcdn (Fix Regex [wenn Bindestriche in der Media ID verwendet werden])
+- videozupload
+
+[B]4.0.52[/B]
   08.06.2019
   Neu:
 - Linksnappy
